@@ -3,7 +3,7 @@ this program saves the list to a file on each change. It is an interactive todo 
 
 To build the program run for Linux:
 	cargo build --release
-To run program use commands: todo read\n
+To run program use commands: todo read
 				  add <"task">
 				  del <task number>
 				  done <task number>
