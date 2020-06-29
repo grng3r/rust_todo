@@ -1,4 +1,3 @@
-#!
 use std::{
     env::args,
     cmp::PartialEq,
